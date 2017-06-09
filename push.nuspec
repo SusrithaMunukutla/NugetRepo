@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Nuget</id>
+    <id>push</id>
     <version>1.0</version>
     <authors>None</authors>
     <owners>None</owners>
